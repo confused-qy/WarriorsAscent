@@ -1,0 +1,33 @@
+﻿# Unreal Engine generated directories
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Plugins/**/Intermediate/
+
+# Visual Studio / Rider generated files
+/.vs/
+/.idea/
+*.sln
+*.slnx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.ipch
+
+# IDE workspace caches
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep project sources, configuration, Content, Build resources,
+# and plugin binaries (some third-party plugins ship without source).
